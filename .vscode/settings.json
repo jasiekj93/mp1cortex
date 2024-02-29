@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.tpp": "cpp",
+        "*.roff": "troff",
+        "virt_uart.h": "c"
+    }
+}
